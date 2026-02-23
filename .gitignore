@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.vscode
+data
+Execute-Files.ipynb
+back_testing/__pycache__
+back_testing/ma/__pycache__

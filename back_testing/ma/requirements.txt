@@ -1,0 +1,7 @@
+Problem I - Backtests a strategy using three moving averages on any indices such as Nifty50, SPY, HSI and so on.
+Compute three moving averages of 20, 40, and 80.
+Go long when the price crosses above all three moving averages.
+Exit the long position when the price crosses below any of the three moving averages.
+Go short when the price crosses below all three moving averages.
+Exit the short position when the price crosses above any of the three moving averages.
+Optional: Optimize all three moving averages
