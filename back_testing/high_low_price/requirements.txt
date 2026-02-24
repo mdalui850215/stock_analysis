@@ -1,0 +1,4 @@
+Problem V - Backtest a strategy based on a high & low price
+Go long when the stock closes above the last 20 day’s high price.
+Square off the long position when the stock goes below the last 20 day’s low price.
+Optional: Optimise the strategy by adjusting the number of periods. You can choose to have different number of periods for entering the long and exiting the long.

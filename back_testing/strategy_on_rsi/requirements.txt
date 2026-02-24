@@ -1,0 +1,5 @@
+Problem III - Strategy based on RSI indicator.
+Buy the instrument such as Nifty or SPY when the RSI is less than 30
+Exit conditions: a. Take profit of 5% or RSI > 70, b. Stop loss of - 2%
+Optional: Optimize the strategy by adjusting the RSI value. Also, take profit and stop loss criteria can be different for each stock.
+Note: You can use TA-Lib in Python to compute the RSI value.

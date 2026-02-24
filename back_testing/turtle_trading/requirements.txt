@@ -1,0 +1,2 @@
+Problem IV - Backtest the strategy based on the turtle trading system covered in EFS-02 class.
+You can use the daily data for backtesting purpose. Also, the event-driven approach covered in DMP-01 and DMP-03 would be best for this scenario.
